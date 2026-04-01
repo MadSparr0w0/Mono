@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\turndebugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turndebugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\playerpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|F:\\Monopoly\\assets\\scripts\\monopolygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monopolygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\lanconnectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lanconnectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|F:\\Monopoly\\assets\\scripts\\boardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\boardpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnDebugUI.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\TurnDebugUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\TurnDebugUI.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\TurnDebugUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\TurnDebugUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:49:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPawn.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\PlayerPawn.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerPawn.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\PlayerPawn.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerPawn.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:49:41.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LANConnectionUI.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\LANConnectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LANConnectionUI.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\LANConnectionUI.cs",
+              "RelativeToolTip": "Assets\\scripts\\LANConnectionUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:49:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiceRoller.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\DiceRoller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DiceRoller.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\DiceRoller.cs",
+              "RelativeToolTip": "Assets\\scripts\\DiceRoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:49:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonopolyGameManager.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\MonopolyGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MonopolyGameManager.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\MonopolyGameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\MonopolyGameManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:26:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardPath.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\BoardPath.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BoardPath.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\BoardPath.cs",
+              "RelativeToolTip": "Assets\\scripts\\BoardPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:25:53.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoardSpace.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\BoardSpace.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BoardSpace.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\BoardSpace.cs",
+              "RelativeToolTip": "Assets\\scripts\\BoardSpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:19:23.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

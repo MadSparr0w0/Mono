@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|F:\\Monopoly\\assets\\scripts\\boardpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|F:\\Monopoly\\assets\\scripts\\boardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|f:\\monopoly\\assets\\scripts\\monopolygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monopolygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonopolyGameManager.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\MonopolyGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MonopolyGameManager.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\MonopolyGameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\MonopolyGameManager.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAvwHgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:26:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardPath.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\BoardPath.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BoardPath.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\BoardPath.cs",
+              "RelativeToolTip": "Assets\\scripts\\BoardPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:25:53.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardSpace.cs",
+              "DocumentMoniker": "F:\\Monopoly\\Assets\\scripts\\BoardSpace.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BoardSpace.cs",
+              "ToolTip": "F:\\Monopoly\\Assets\\scripts\\BoardSpace.cs",
+              "RelativeToolTip": "Assets\\scripts\\BoardSpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:19:23.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

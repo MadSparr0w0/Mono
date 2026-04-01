@@ -1,0 +1,28 @@
+{
+  "name": "com.unity.multiplayer.playmode",
+  "displayName": "Multiplayer Play Mode",
+  "version": "1.6.3",
+  "unity": "6000.0",
+  "unityRelease": "48f1",
+  "description": "Multiplayer Play Mode is a feature that enables multiple editor instances to be opened simultaneously on the same development device.",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.2"
+  },
+  "relatedPackages": {
+    "com.unity.multiplayer.workflows.tests.common": "1.6.3",
+    "com.unity.multiplayer.playmode.tests": "1.6.3"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n- Clone editors inconsistently don't transition from launching to launch\n- Play Mode Status window has a horizontal scrollbar active at all times even when not needed or the window is fullscreen\n- Local instance and editor is still running after cancelling play mode\n- Fixed instance status icon showing `loading` after the scenario is cancelled in the scenario status dropdown.\n\n### Changed\n- Remote instances are no longer available when using in conjunction with `com.unity.services.multiplayer` version `2.X`"
+  },
+  "upmCi": {
+    "footprint": "42301e51d404d062affe27f2ef5e6b962f80db8a"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.multiplayer.playmode@1.6/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/multiplayer-workflows.git",
+    "type": "git",
+    "revision": "fffb289ed67c70afcb7a54adbe18e4a809f6bff2"
+  },
+  "_fingerprint": "d6d235962e243af2e7374705e464b28ccc2f845e"
+}
